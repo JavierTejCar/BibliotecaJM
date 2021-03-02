@@ -9,6 +9,7 @@ namespace BibliotecaJM
     public class UsuarioActual
     {
         public string Nombre { get; set; }
+        public string Apellido { get; set; }
         public string TipoUsuario { get; set; }
     }
 }
